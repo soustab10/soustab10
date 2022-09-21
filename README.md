@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soustab10" alt="soustab10" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Django and Nuxt**
 
 - 📫 How to reach me **soustabhaldar10@gmail.com**
 
