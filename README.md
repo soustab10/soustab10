@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soustab10&show_icons=true&locale=en" alt="soustab10" /></p>
 
-[![@soustab10's Holopin board](https://holopin.me/soustab10)](https://holopin.io/@soustab10)
+
