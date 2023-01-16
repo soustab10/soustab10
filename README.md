@@ -11,7 +11,7 @@
 
 - 👀 Interested in `Web Development` and `Open Source Contributions`
 - 👨‍💻 Currently pursing `Computer Science and Engineering` from `Indian Institute of Technology (BHU) Varanasi`
-- 📫 Reach me: `soustab.haldar.cse21@itbhu.ac.in`
+- 📫 Reach me: `soustabhaldar10@gmail.com` 
 - 🌱 Currently learning `Rust`.
 
 <h1 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="50" height="50"> I can work with  </h1>
