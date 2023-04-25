@@ -79,13 +79,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=soustab10&theme=onedark&no-bg=true&column=4&margin-w=20&margin-h=20"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soustab10&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soustab10&layout=compact&theme=dark"/>
-</p>
+</p> -->
 
 <h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="50" height="50"> Connect with me  </h1>
 <p align="center">
