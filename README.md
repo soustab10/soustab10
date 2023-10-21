@@ -89,7 +89,7 @@
 
 <h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="50" height="50"> Connect with me  </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/soustab-haldar-022ba8229"><img src="https://i.imgur.com/ocLF6w9.png" width="6%" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/soustab-haldar"><img src="https://i.imgur.com/ocLF6w9.png" width="6%" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/sousphotos_/"><img src="https://i.imgur.com/kW8LrD3.png" width="6%" alt="Instagram"/></a>
   <a href="https://twitter.com/soustabh"><img src="https://i.imgur.com/qm4OwSV.gif" width="6%" alt="Twitter"/></a>
 </p>
