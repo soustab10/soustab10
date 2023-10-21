@@ -9,8 +9,8 @@
 
 <h1 align="left"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="50" height="50"> About me  </h1>
 
-- 👀 Interested in `Web Development` and `Open Source Contributions`
-- 👨‍💻 Currently pursing `Computer Science and Engineering` from `Indian Institute of Technology (BHU) Varanasi`
+- 👀 Interested in `Full Stack Web Development` and `Open Source Contributions`
+- 👨‍💻 Currently pursuing `Computer Science and Engineering` from `Indian Institute of Technology (BHU) Varanasi`
 - 📫 Reach me: `soustabhaldar10@gmail.com` 
 - 🌱 Currently learning `Rust`.
 
