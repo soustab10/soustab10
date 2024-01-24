@@ -12,7 +12,7 @@
 - 👀 Interested in `Full Stack Web Development` and `Open Source Contributions`
 - 👨‍💻 Currently pursuing `Computer Science and Engineering` from `Indian Institute of Technology (BHU) Varanasi`
 - 📫 Reach me: `soustabhaldar10@gmail.com` 
-- 🌱 Currently working on `Springboot: E-Commerce Project` and `Intelligent Computing`.
+- 🌱 Currently working on `Data Structures and Algorithms` and `Full Stack Projects`.
 
 <h1 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="50" height="50"> I can work with  </h1>
 
